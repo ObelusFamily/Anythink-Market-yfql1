@@ -11,3 +11,9 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+
+To start a docker image, first clone the repo.
+
+Open a terminal and run "docker-compose up", which runs the image.
+
+You can execute commands on the running image by using "docker exec".
